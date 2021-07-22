@@ -1,0 +1,9 @@
+E:\#1 CodingArea\C#_Practice_Winform\CountDownTimer\CountDownTimer\bin\Debug\CountDownTimer.exe.config
+E:\#1 CodingArea\C#_Practice_Winform\CountDownTimer\CountDownTimer\bin\Debug\CountDownTimer.exe
+E:\#1 CodingArea\C#_Practice_Winform\CountDownTimer\CountDownTimer\bin\Debug\CountDownTimer.pdb
+E:\#1 CodingArea\C#_Practice_Winform\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.csprojResolveAssemblyReference.cache
+E:\#1 CodingArea\C#_Practice_Winform\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.Form1.resources
+E:\#1 CodingArea\C#_Practice_Winform\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.Properties.Resources.resources
+E:\#1 CodingArea\C#_Practice_Winform\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.csproj.GenerateResource.Cache
+E:\#1 CodingArea\C#_Practice_Winform\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.exe
+E:\#1 CodingArea\C#_Practice_Winform\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.pdb
